@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49b727e9.css",
+    "main.js": "/static/js/main.58d80a23.js",
+    "static/js/453.493b81aa.chunk.js": "/static/js/453.493b81aa.chunk.js",
+    "static/media/post3.jpg": "/static/media/post3.3a92f73a8bee52be81db.jpg",
+    "static/media/Post1.jpg": "/static/media/Post1.c36791a80fe7a5c0829b.jpg",
+    "static/media/profile1.jpg": "/static/media/profile1.8487a218071c696b5248.jpg",
+    "static/media/profile5.jpg": "/static/media/profile5.a447bc96fa7b2125ae55.jpg",
+    "static/media/profile2.webp": "/static/media/profile2.36ace65352481f665154.webp",
+    "static/media/post4.jpg": "/static/media/post4.0c0621b34013e2c1b798.jpg",
+    "static/media/post2.jpg": "/static/media/post2.fd3bb35840fd6173f3f8.jpg",
+    "static/media/profile6.jpg": "/static/media/profile6.d60f9fbfd33bb456fed1.jpg",
+    "static/media/profile4.jpg": "/static/media/profile4.97b8fef5e74486ac27b4.jpg",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.1b0a6c23ea9828e7c8b2.png",
+    "index.html": "/index.html",
+    "main.49b727e9.css.map": "/static/css/main.49b727e9.css.map",
+    "main.58d80a23.js.map": "/static/js/main.58d80a23.js.map",
+    "453.493b81aa.chunk.js.map": "/static/js/453.493b81aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b727e9.css",
+    "static/js/main.58d80a23.js"
+  ]
+}
